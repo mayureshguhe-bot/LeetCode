@@ -26,6 +26,7 @@ Problem - Solving
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +47,8 @@ Problem - Solving
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
