@@ -7,6 +7,7 @@ Problem - Solving
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -41,4 +42,8 @@ Problem - Solving
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Simulation
+|  |
+| ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
