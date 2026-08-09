@@ -6,6 +6,7 @@ Problem - Solving
 ## Array
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -22,6 +23,7 @@ Problem - Solving
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -48,9 +50,18 @@ Problem - Solving
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 ## String
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
