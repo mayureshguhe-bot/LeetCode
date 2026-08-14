@@ -7,6 +7,7 @@ Problem - Solving
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -27,6 +28,7 @@ Problem - Solving
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -57,6 +59,7 @@ Problem - Solving
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/mayureshguhe-bot/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 ## String
