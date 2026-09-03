@@ -6,6 +6,7 @@ Problem - Solving
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0053-maximum-subarray) |
 | [0832-flipping-an-image](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -83,4 +84,12 @@ Problem - Solving
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0832-flipping-an-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mayureshguhe-bot/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
